@@ -1,0 +1,8 @@
+{
+  "name": "deno-hoisted-reproduction",
+  "private": true,
+  "dependencies": {
+    "schema-utils": "4.3.3",
+    "terser-webpack-plugin": "5.3.10"
+  }
+}
