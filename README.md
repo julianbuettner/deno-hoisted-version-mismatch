@@ -7,6 +7,8 @@ correctly.
 
 ## Reproduce
 
+The issue is for an open PR, so please run `deno upgrade pr 34470` before reproducing.
+
 TLDR: Run `bash repro.sh`
 
 ```bash
